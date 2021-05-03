@@ -34,6 +34,10 @@
 
 
 /////////////
+group = 'co.com.choucair.certification.proyectobase'
+version = '1.0'
+description = 'Automatización Choucair Academy'
+
 apply plugin: 'java'
 apply plugin: 'idea'
 apply plugin: 'net.serenity-bdd.aggregator'
